@@ -5,6 +5,7 @@ import lombok.Setter;
 
 @Setter
 @Getter
+//
 public class CommonResponse {
     private boolean success;
     private String message;
